@@ -1,0 +1,886 @@
+timestamp,ip_address,username,method,path,status_code,bytes_sent,user_agent
+2026-10-25 00:49:43,198.18.1.14,-,GET,/api/items,200,35012,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 01:12:18,198.18.1.19,-,GET,/about,200,41610,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 01:16:12,198.18.1.31,-,GET,/about,200,15581,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 01:44:21,192.168.1.25,judy,GET,/home,200,28476,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 01:59:10,198.18.1.27,-,GET,/api/items,200,33295,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 02:09:26,198.18.1.24,-,GET,/,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 02:10:01,198.51.100.23,-,GET,/console,404,1278,Nikto/2.5.0
+2026-10-25 02:10:16,198.51.100.23,-,GET,/wp-login.php,403,656,Nikto/2.5.0
+2026-10-25 02:10:34,198.51.100.23,-,GET,/login,404,1500,Nikto/2.5.0
+2026-10-25 02:10:48,198.51.100.23,-,GET,/console,403,575,Nikto/2.5.0
+2026-10-25 02:11:03,198.51.100.23,-,GET,/.git/config,404,455,Nikto/2.5.0
+2026-10-25 02:11:15,198.51.100.23,-,GET,/wp-login.php,404,1076,Nikto/2.5.0
+2026-10-25 02:11:34,198.51.100.23,-,GET,/console,403,1183,Nikto/2.5.0
+2026-10-25 02:11:46,198.51.100.23,-,GET,/wp-admin,404,892,Nikto/2.5.0
+2026-10-25 02:12:03,198.51.100.23,-,GET,/.env,404,1406,Nikto/2.5.0
+2026-10-25 02:12:19,198.51.100.23,-,GET,/config,401,321,Nikto/2.5.0
+2026-10-25 02:12:33,198.51.100.23,-,GET,/.env,404,719,Nikto/2.5.0
+2026-10-25 02:12:48,198.51.100.23,-,GET,/admin,404,1486,Nikto/2.5.0
+2026-10-25 02:13:05,198.51.100.23,-,GET,/config,404,218,Nikto/2.5.0
+2026-10-25 02:13:17,198.51.100.23,-,GET,/login,403,1450,Nikto/2.5.0
+2026-10-25 02:13:35,198.51.100.23,-,GET,/admin/login,404,1283,Nikto/2.5.0
+2026-10-25 02:13:37,198.18.1.11,-,GET,/,200,47508,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 02:13:46,198.51.100.23,-,GET,/wp-admin,401,1198,Nikto/2.5.0
+2026-10-25 02:14:01,198.51.100.23,-,GET,/backup.zip,403,759,Nikto/2.5.0
+2026-10-25 02:14:20,198.51.100.23,-,GET,/.git/config,404,406,Nikto/2.5.0
+2026-10-25 02:14:35,198.51.100.23,-,GET,/admin/login,404,269,Nikto/2.5.0
+2026-10-25 02:14:46,198.51.100.23,-,GET,/config,401,244,Nikto/2.5.0
+2026-10-25 02:15:03,198.51.100.23,-,GET,/config.php,404,382,Nikto/2.5.0
+2026-10-25 02:15:20,198.51.100.23,-,GET,/api/v1/users,404,975,Nikto/2.5.0
+2026-10-25 02:15:34,198.51.100.23,-,GET,/backup.zip,403,1388,Nikto/2.5.0
+2026-10-25 02:15:47,198.51.100.23,-,GET,/config.php,404,1420,Nikto/2.5.0
+2026-10-25 02:16:00,198.51.100.23,-,GET,/config.php,403,1186,Nikto/2.5.0
+2026-10-25 02:16:15,198.51.100.23,-,GET,/wp-login.php,401,1488,Nikto/2.5.0
+2026-10-25 02:16:34,198.51.100.23,-,GET,/console,404,1031,Nikto/2.5.0
+2026-10-25 02:16:50,198.51.100.23,-,GET,/admin,401,1443,Nikto/2.5.0
+2026-10-25 02:17:00,198.51.100.23,-,GET,/console,404,324,Nikto/2.5.0
+2026-10-25 02:17:15,198.51.100.23,-,GET,/config.php,401,1243,Nikto/2.5.0
+2026-10-25 02:17:35,198.51.100.23,-,GET,/config.php,404,1268,Nikto/2.5.0
+2026-10-25 02:17:46,198.51.100.23,-,GET,/wp-admin,404,689,Nikto/2.5.0
+2026-10-25 02:18:01,198.51.100.23,-,GET,/wp-admin,403,1323,Nikto/2.5.0
+2026-10-25 02:18:15,198.51.100.23,-,GET,/login,404,1487,Nikto/2.5.0
+2026-10-25 02:18:35,198.51.100.23,-,GET,/wp-login.php,403,1054,Nikto/2.5.0
+2026-10-25 02:18:46,198.51.100.23,-,GET,/login,401,549,Nikto/2.5.0
+2026-10-25 02:19:04,198.51.100.23,-,GET,/.git/config,404,503,Nikto/2.5.0
+2026-10-25 02:19:19,198.51.100.23,-,GET,/wp-login.php,404,901,Nikto/2.5.0
+2026-10-25 02:19:34,198.51.100.23,-,GET,/.git/config,401,941,Nikto/2.5.0
+2026-10-25 02:19:50,198.51.100.23,-,GET,/phpmyadmin,404,842,Nikto/2.5.0
+2026-10-25 02:20:04,198.51.100.23,-,GET,/wp-admin,403,618,Nikto/2.5.0
+2026-10-25 02:20:10,198.18.1.30,-,GET,/products,200,45994,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 02:20:19,198.51.100.23,-,GET,/console,404,700,Nikto/2.5.0
+2026-10-25 02:20:33,198.51.100.23,-,GET,/wp-login.php,404,993,Nikto/2.5.0
+2026-10-25 02:20:45,198.51.100.23,-,GET,/.env,404,1400,Nikto/2.5.0
+2026-10-25 02:21:01,198.51.100.23,-,GET,/.env,404,193,Nikto/2.5.0
+2026-10-25 02:21:16,198.51.100.23,-,GET,/config.php,404,824,Nikto/2.5.0
+2026-10-25 02:21:35,198.51.100.23,-,GET,/api/v1/users,404,745,Nikto/2.5.0
+2026-10-25 02:21:49,198.51.100.23,-,GET,/wp-admin,401,1348,Nikto/2.5.0
+2026-10-25 02:22:01,198.51.100.23,-,GET,/admin/login,401,257,Nikto/2.5.0
+2026-10-25 02:22:16,198.51.100.23,-,GET,/config,404,722,Nikto/2.5.0
+2026-10-25 02:22:34,198.51.100.23,-,GET,/config.php,404,657,Nikto/2.5.0
+2026-10-25 02:22:47,198.51.100.23,-,GET,/admin/login,404,1348,Nikto/2.5.0
+2026-10-25 02:23:01,198.51.100.23,-,GET,/console,404,338,Nikto/2.5.0
+2026-10-25 02:23:18,198.51.100.23,-,GET,/config,403,1179,Nikto/2.5.0
+2026-10-25 02:23:35,198.51.100.23,-,GET,/console,401,1360,Nikto/2.5.0
+2026-10-25 02:23:45,198.51.100.23,-,GET,/backup.zip,401,1495,Nikto/2.5.0
+2026-10-25 02:24:05,198.51.100.23,-,GET,/login,404,1360,Nikto/2.5.0
+2026-10-25 02:24:15,198.51.100.23,-,GET,/login,404,864,Nikto/2.5.0
+2026-10-25 02:24:33,198.51.100.23,-,GET,/phpmyadmin,404,426,Nikto/2.5.0
+2026-10-25 02:24:46,198.51.100.23,-,GET,/console,401,1413,Nikto/2.5.0
+2026-10-25 02:25:26,198.18.1.13,-,GET,/favicon.ico,200,37312,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 02:32:10,198.18.0.32,laura,GET,/favicon.ico,200,24824,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 02:44:07,198.18.1.11,-,GET,/blog/security-tips,200,29918,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 02:46:17,198.18.1.10,-,GET,/products/item-101,200,1923,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 03:38:14,198.18.1.26,-,GET,/about,200,19211,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 04:10:34,198.18.1.24,-,GET,/contact,200,9737,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 04:23:44,198.18.1.39,-,GET,/api/items,200,7967,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 04:30:00,203.0.113.45,-,POST,/login,401,318,python-requests/2.31.0
+2026-10-25 04:30:03,203.0.113.45,-,POST,/login,401,1321,python-requests/2.31.0
+2026-10-25 04:30:06,203.0.113.45,-,POST,/login,401,1271,python-requests/2.31.0
+2026-10-25 04:30:13,203.0.113.45,-,POST,/login,401,422,python-requests/2.31.0
+2026-10-25 04:30:17,203.0.113.45,-,POST,/login,401,557,python-requests/2.31.0
+2026-10-25 04:30:24,203.0.113.45,-,POST,/login,401,830,python-requests/2.31.0
+2026-10-25 04:30:29,203.0.113.45,-,POST,/login,401,478,python-requests/2.31.0
+2026-10-25 04:30:33,203.0.113.45,-,POST,/login,401,240,python-requests/2.31.0
+2026-10-25 04:30:38,203.0.113.45,-,POST,/login,401,832,python-requests/2.31.0
+2026-10-25 04:30:41,203.0.113.45,-,POST,/login,401,1027,python-requests/2.31.0
+2026-10-25 04:30:45,203.0.113.45,-,POST,/login,401,1022,python-requests/2.31.0
+2026-10-25 04:30:50,203.0.113.45,-,POST,/login,401,801,python-requests/2.31.0
+2026-10-25 04:30:55,203.0.113.45,-,POST,/login,401,1087,python-requests/2.31.0
+2026-10-25 04:30:59,203.0.113.45,-,POST,/login,401,1484,python-requests/2.31.0
+2026-10-25 04:31:05,203.0.113.45,-,POST,/login,401,740,python-requests/2.31.0
+2026-10-25 04:31:12,203.0.113.45,-,POST,/login,401,491,python-requests/2.31.0
+2026-10-25 04:31:17,203.0.113.45,-,POST,/login,401,564,python-requests/2.31.0
+2026-10-25 04:31:24,203.0.113.45,-,POST,/login,401,398,python-requests/2.31.0
+2026-10-25 04:31:31,203.0.113.45,-,POST,/login,401,449,python-requests/2.31.0
+2026-10-25 04:31:34,203.0.113.45,-,POST,/login,401,558,python-requests/2.31.0
+2026-10-25 04:31:41,203.0.113.45,-,POST,/login,401,233,python-requests/2.31.0
+2026-10-25 04:31:46,203.0.113.45,-,POST,/login,401,1433,python-requests/2.31.0
+2026-10-25 04:31:49,203.0.113.45,-,POST,/login,401,1443,python-requests/2.31.0
+2026-10-25 04:31:53,203.0.113.45,-,POST,/login,401,726,python-requests/2.31.0
+2026-10-25 04:31:58,203.0.113.45,-,POST,/login,401,1420,python-requests/2.31.0
+2026-10-25 04:32:01,203.0.113.45,-,POST,/login,401,1341,python-requests/2.31.0
+2026-10-25 04:32:04,203.0.113.45,-,POST,/login,401,1434,python-requests/2.31.0
+2026-10-25 04:32:11,203.0.113.45,-,POST,/login,401,652,python-requests/2.31.0
+2026-10-25 04:32:15,203.0.113.45,-,POST,/login,401,1401,python-requests/2.31.0
+2026-10-25 04:32:20,203.0.113.45,-,POST,/login,401,655,python-requests/2.31.0
+2026-10-25 04:32:25,203.0.113.45,-,POST,/login,401,652,python-requests/2.31.0
+2026-10-25 04:32:32,203.0.113.45,-,POST,/login,401,233,python-requests/2.31.0
+2026-10-25 04:32:36,203.0.113.45,-,POST,/login,401,915,python-requests/2.31.0
+2026-10-25 04:32:41,203.0.113.45,-,POST,/login,401,342,python-requests/2.31.0
+2026-10-25 04:32:45,203.0.113.45,-,POST,/login,401,1156,python-requests/2.31.0
+2026-10-25 04:32:50,203.0.113.45,-,POST,/login,401,454,python-requests/2.31.0
+2026-10-25 04:32:57,203.0.113.45,-,POST,/login,401,1208,python-requests/2.31.0
+2026-10-25 04:33:03,203.0.113.45,-,POST,/login,401,1418,python-requests/2.31.0
+2026-10-25 04:33:08,203.0.113.45,-,POST,/login,401,1140,python-requests/2.31.0
+2026-10-25 04:33:11,203.0.113.45,-,POST,/login,401,945,python-requests/2.31.0
+2026-10-25 04:33:14,203.0.113.45,-,POST,/login,401,556,python-requests/2.31.0
+2026-10-25 04:33:20,203.0.113.45,-,POST,/login,401,973,python-requests/2.31.0
+2026-10-25 04:33:25,203.0.113.45,-,POST,/login,401,1186,python-requests/2.31.0
+2026-10-25 04:33:28,203.0.113.45,-,POST,/login,401,1150,python-requests/2.31.0
+2026-10-25 04:33:31,203.0.113.45,-,POST,/login,401,461,python-requests/2.31.0
+2026-10-25 04:33:36,203.0.113.45,-,POST,/login,401,515,python-requests/2.31.0
+2026-10-25 04:33:40,203.0.113.45,-,POST,/login,401,575,python-requests/2.31.0
+2026-10-25 04:33:45,203.0.113.45,-,POST,/login,401,643,python-requests/2.31.0
+2026-10-25 04:33:49,203.0.113.45,-,POST,/login,401,246,python-requests/2.31.0
+2026-10-25 04:33:55,203.0.113.45,-,POST,/login,401,1016,python-requests/2.31.0
+2026-10-25 04:34:02,203.0.113.45,-,POST,/login,401,210,python-requests/2.31.0
+2026-10-25 04:34:08,203.0.113.45,-,POST,/login,401,732,python-requests/2.31.0
+2026-10-25 04:34:15,203.0.113.45,-,POST,/login,401,1025,python-requests/2.31.0
+2026-10-25 04:34:18,203.0.113.45,-,POST,/login,401,635,python-requests/2.31.0
+2026-10-25 04:34:21,203.0.113.45,-,POST,/login,401,595,python-requests/2.31.0
+2026-10-25 04:34:24,203.0.113.45,-,POST,/login,401,598,python-requests/2.31.0
+2026-10-25 04:34:28,203.0.113.45,-,POST,/login,401,315,python-requests/2.31.0
+2026-10-25 04:34:35,203.0.113.45,-,POST,/login,401,542,python-requests/2.31.0
+2026-10-25 04:34:38,203.0.113.45,admin,POST,/login,302,250,python-requests/2.31.0
+2026-10-25 04:58:11,198.18.1.27,-,GET,/static/css/style.css,200,12320,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 05:29:03,198.18.0.34,nina,GET,/static/img/logo.png,200,38410,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 05:31:58,198.18.1.21,-,GET,/static/css/style.css,200,45902,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 05:34:27,198.18.1.13,-,GET,/static/js/app.js,200,5319,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 05:50:34,198.18.1.15,-,GET,/products,200,6907,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 05:55:00,198.18.1.13,-,GET,/home,200,3813,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 06:14:36,192.168.1.24,ivan,GET,/static/img/logo.png,304,0,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 06:19:16,10.0.0.14,dave,GET,/favicon.ico,200,2836,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 06:22:00,10.0.0.13,carol,GET,/about,200,9747,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 06:22:44,10.0.0.11,alice,GET,/static/js/app.js,200,36265,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 06:23:14,198.18.1.11,-,GET,/home,200,44616,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 06:32:18,198.18.1.27,-,GET,/home,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 06:32:23,198.18.1.38,-,GET,/about,200,26107,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 06:40:37,10.0.0.15,eve,GET,/products,200,31747,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 06:40:42,198.18.1.10,-,GET,/home,200,44006,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 06:41:20,198.18.1.13,-,GET,/api/items,200,46974,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 06:42:40,198.18.1.18,-,GET,/blog,200,24609,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 06:42:47,192.168.1.22,grace,GET,/,200,8627,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 06:47:37,198.18.1.27,-,GET,/,200,46733,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 06:50:10,198.18.1.34,-,GET,/products/item-101,200,21189,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 06:50:25,198.18.1.10,-,GET,/home,200,41994,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 06:57:41,198.18.1.39,-,GET,/static/img/logo.png,200,9240,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 07:02:56,198.18.1.18,-,GET,/products/item-101,200,21923,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 07:06:00,198.18.0.32,laura,GET,/static/js/app.js,200,32048,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 07:06:32,198.18.1.38,-,GET,/contact,404,1485,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 07:07:53,198.18.1.20,-,GET,/home,200,10574,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 07:16:24,198.18.1.21,-,GET,/products/item-318,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 07:32:28,198.18.1.31,-,GET,/home,200,30516,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 07:34:34,198.18.1.34,-,GET,/products,200,18984,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 07:47:40,198.18.0.34,nina,GET,/,200,6813,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 07:51:48,198.18.0.31,karl,GET,/blog,200,32217,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 07:56:34,10.0.0.11,alice,GET,/home,200,26270,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 08:00:03,198.18.0.32,laura,GET,/,200,29519,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:00:36,10.0.0.13,carol,GET,/blog,200,31562,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:05:11,10.0.0.15,eve,GET,/products,200,30215,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:06:10,10.0.0.14,dave,GET,/,200,31343,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:08:30,198.18.1.17,-,GET,/home,200,37760,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 08:08:51,198.18.1.11,-,GET,/products/item-205,304,0,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:10:27,10.0.0.13,carol,GET,/home,200,28397,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:11:53,198.18.0.33,mike,GET,/blog,200,29483,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 08:12:33,198.18.1.12,-,GET,/home,200,10601,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:12:53,198.18.0.32,laura,GET,/about,200,36328,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:16:18,10.0.0.14,dave,GET,/home,200,8663,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:16:34,198.18.1.20,-,GET,/contact,200,2419,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:16:41,198.18.1.34,-,GET,/products/item-101,200,30733,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 08:19:21,10.0.0.12,bob,GET,/,301,250,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:19:46,198.18.1.16,-,GET,/contact,200,37997,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:20:42,198.18.1.36,-,GET,/,200,20886,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:21:45,192.168.1.24,ivan,GET,/home,200,7389,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:21:51,198.18.1.22,-,GET,/products/item-101,200,34834,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:23:43,198.18.0.33,mike,GET,/contact,200,39109,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:24:26,10.0.0.15,eve,GET,/,200,38470,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 08:24:44,192.168.1.21,frank,GET,/api/items,200,47095,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 08:27:05,10.0.0.13,carol,GET,/home,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 08:27:14,198.18.1.38,-,GET,/static/js/app.js,200,46407,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 08:32:32,198.18.0.33,mike,GET,/products/item-318,200,26803,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 08:33:55,192.168.1.25,judy,GET,/static/css/style.css,200,5553,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:34:12,198.18.1.12,-,GET,/static/img/logo.png,200,41866,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:34:56,198.18.1.20,-,GET,/static/js/app.js,200,35589,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:36:19,198.18.1.28,-,GET,/blog,200,17065,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 08:36:23,198.18.1.29,-,GET,/blog/security-tips,200,28869,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:38:43,198.18.1.33,-,GET,/static/css/style.css,301,250,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:41:19,198.18.1.23,-,GET,/home,200,18758,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 08:43:15,198.18.1.33,-,GET,/blog,200,38323,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 08:45:41,198.18.1.21,-,GET,/home,200,10371,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:48:07,198.18.1.24,-,GET,/static/img/logo.png,200,23838,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:50:25,10.0.0.15,eve,GET,/favicon.ico,200,32853,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 08:53:49,198.18.1.24,-,GET,/products,200,9256,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 08:54:31,198.18.0.34,nina,GET,/home,200,45531,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 08:54:33,192.168.1.23,heidi,GET,/api/items,200,19481,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 08:57:10,198.18.1.19,-,GET,/products/item-205,200,10004,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 09:04:10,198.18.1.18,-,GET,/blog/security-tips,200,27572,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:04:49,192.168.1.24,ivan,GET,/,301,250,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:04:51,198.18.1.28,-,GET,/blog/security-tips,200,20127,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:05:27,198.18.0.31,karl,GET,/static/css/style.css,200,42333,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:06:22,192.168.1.24,ivan,GET,/home,200,8329,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 09:07:16,198.18.0.34,nina,GET,/products/item-205,200,35384,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 09:07:21,198.18.1.14,-,GET,/static/img/logo.png,200,30875,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 09:07:47,198.18.1.19,-,GET,/home,200,13352,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 09:08:44,198.18.1.35,-,GET,/products,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:12:26,198.18.1.23,-,GET,/,200,44092,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 09:12:47,192.168.1.21,frank,GET,/home,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:13:21,198.18.1.26,-,GET,/contact,200,13383,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 09:16:35,198.18.1.20,-,GET,/,200,38480,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:19:29,10.0.0.12,bob,GET,/products/item-205,404,425,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 09:22:03,192.168.1.22,grace,GET,/products/item-101,404,756,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:24:10,10.0.0.15,eve,POST,/api/cart,201,480,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:25:23,198.18.0.34,nina,GET,/static/js/app.js,200,38963,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:29:21,198.18.1.20,-,GET,/contact,200,47766,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 09:30:00,10.0.0.11,alice,GET,/admin,200,5543,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:30:49,198.18.1.28,-,GET,/products,200,1893,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:32:07,198.18.1.25,-,GET,/blog,200,28974,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 09:32:40,198.18.1.33,-,GET,/about,200,35573,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:33:24,198.18.1.17,-,POST,/api/cart,201,334,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:33:48,198.18.0.32,laura,POST,/api/cart,201,229,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 09:34:02,198.18.0.34,nina,GET,/,200,30461,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 09:35:24,10.0.0.15,eve,GET,/static/js/app.js,200,12972,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 09:35:50,10.0.0.15,eve,GET,/favicon.ico,200,12512,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 09:36:26,198.18.0.31,karl,GET,/static/js/app.js,200,33439,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:37:00,10.0.0.11,alice,GET,/admin/dashboard,200,33775,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:38:47,198.18.1.24,-,GET,/static/css/style.css,200,11532,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:38:51,198.18.1.30,-,GET,/,200,47510,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 09:40:03,10.0.0.12,bob,GET,/products,200,30425,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:41:35,198.18.0.34,nina,GET,/static/css/style.css,200,16371,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 09:42:00,192.0.2.77,-,GET,/products?cat=1' OR 1=1#,500,290,sqlmap/1.7.8#stable
+2026-10-25 09:42:05,198.18.1.29,-,GET,/about,200,5235,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 09:42:35,192.0.2.77,-,GET,/products?id=1' OR '1'='1,200,21726,sqlmap/1.7.8#stable
+2026-10-25 09:43:00,198.18.1.38,-,GET,/about,200,15628,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 09:43:10,192.0.2.77,-,GET,/login?user=admin'--,400,849,sqlmap/1.7.8#stable
+2026-10-25 09:43:40,192.168.1.24,ivan,GET,/home,200,20533,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:43:45,192.0.2.77,-,GET,/search?q=1; DROP TABLE users;--,400,493,sqlmap/1.7.8#stable
+2026-10-25 09:43:52,198.18.1.24,-,GET,/products/item-205,500,244,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:44:00,10.0.0.11,alice,GET,/admin/users,200,20084,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:44:15,198.18.1.24,-,GET,/static/js/app.js,200,44313,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 09:44:20,192.0.2.77,-,GET,/products?cat=1' OR 1=1#,200,30003,sqlmap/1.7.8#stable
+2026-10-25 09:44:55,192.0.2.77,-,GET,"/products?id=1 UNION SELECT username,password FROM users--",500,634,sqlmap/1.7.8#stable
+2026-10-25 09:45:30,192.0.2.77,-,GET,/products?cat=1' OR 1=1#,400,483,sqlmap/1.7.8#stable
+2026-10-25 09:46:05,192.0.2.77,-,GET,"/products?id=1 UNION SELECT username,password FROM users--",200,31985,sqlmap/1.7.8#stable
+2026-10-25 09:46:40,192.0.2.77,-,GET,/products?id=1' OR '1'='1,400,1302,sqlmap/1.7.8#stable
+2026-10-25 09:47:15,192.0.2.77,-,GET,"/products?id=1 UNION SELECT username,password FROM users--",200,26917,sqlmap/1.7.8#stable
+2026-10-25 09:47:33,198.18.1.23,-,GET,/,200,30014,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 09:47:50,192.0.2.77,-,GET,/login?user=admin'--,400,456,sqlmap/1.7.8#stable
+2026-10-25 09:48:25,192.0.2.77,-,GET,/search?q=1; DROP TABLE users;--,400,1179,sqlmap/1.7.8#stable
+2026-10-25 09:49:00,192.0.2.77,-,GET,/search?q=1; DROP TABLE users;--,200,37576,sqlmap/1.7.8#stable
+2026-10-25 09:49:35,192.0.2.77,-,GET,/search?q=1; DROP TABLE users;--,400,676,sqlmap/1.7.8#stable
+2026-10-25 09:50:48,198.18.0.33,mike,GET,/static/js/app.js,200,9280,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:51:00,10.0.0.11,alice,GET,/admin,200,23080,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:51:30,198.18.1.37,-,GET,/,200,23771,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 09:51:36,192.168.1.25,judy,GET,/static/img/logo.png,200,36769,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:53:26,192.168.1.25,judy,GET,/favicon.ico,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 09:53:58,192.168.1.24,ivan,GET,/,200,31041,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:56:24,198.18.1.18,-,GET,/,200,13027,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 09:57:16,198.18.1.25,-,GET,/products/item-318,200,19482,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 09:58:00,10.0.0.11,alice,GET,/admin/settings,200,8468,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 10:00:54,198.18.1.38,-,GET,/static/img/logo.png,200,29041,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 10:01:39,198.18.0.31,karl,POST,/api/cart,201,512,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:02:58,198.18.1.11,-,GET,/favicon.ico,200,34862,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 10:04:45,198.18.0.33,mike,GET,/products/item-101,200,16167,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:05:00,10.0.0.11,alice,GET,/admin/dashboard,200,34438,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 10:06:39,192.168.1.24,ivan,GET,/home,200,16689,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 10:07:29,198.18.1.29,-,GET,/static/js/app.js,200,46657,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:08:10,198.18.0.31,karl,GET,/contact,200,42694,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 10:12:46,198.18.1.27,-,GET,/,200,22482,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 10:13:33,198.18.0.31,karl,GET,/contact,200,28313,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 10:15:28,198.18.1.25,-,GET,/about,200,22402,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:15:45,198.18.1.31,-,GET,/contact,200,6176,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 10:17:37,192.168.1.23,heidi,GET,/,200,23864,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 10:18:44,198.18.1.29,-,GET,/products,200,5464,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 10:19:49,198.18.1.16,-,POST,/api/cart,201,560,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:20:13,198.18.1.14,-,GET,/api/items,200,22220,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 10:20:51,198.18.0.34,nina,GET,/favicon.ico,200,39568,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:26:32,198.18.1.24,-,GET,/search?q=laptop,200,37410,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 10:29:06,198.18.1.37,-,GET,/products,200,8759,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 10:31:01,198.18.1.13,-,GET,/favicon.ico,200,37108,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:31:38,198.18.1.30,-,GET,/search?q=laptop,200,12438,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 10:34:39,198.18.1.35,-,GET,/,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 10:35:37,198.18.1.31,-,GET,/products/item-101,200,41825,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 10:35:41,192.168.1.21,frank,GET,/home,200,17664,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:39:03,198.18.1.19,-,GET,/static/img/logo.png,500,605,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 10:40:31,198.18.0.33,mike,GET,/,200,30806,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 10:40:37,198.18.1.20,-,GET,/blog,200,25762,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:41:08,198.18.1.35,-,GET,/products,200,17162,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 10:44:35,192.168.1.25,judy,GET,/static/css/style.css,200,47453,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:48:19,198.18.1.36,-,GET,/static/css/style.css,200,23804,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:50:10,10.0.0.13,carol,GET,/,200,45586,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:51:58,10.0.0.13,carol,GET,/static/css/style.css,404,1132,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 10:53:54,198.18.1.39,-,GET,/,200,45170,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 10:58:31,198.18.1.32,-,GET,/products,500,431,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 10:59:04,198.18.0.34,nina,GET,/static/css/style.css,200,36388,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:59:05,198.18.1.33,-,GET,/products/item-318,200,30343,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 10:59:56,10.0.0.14,dave,GET,/home,200,2911,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 11:02:46,198.18.1.32,-,GET,/products,200,41094,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 11:04:15,192.168.1.25,judy,GET,/,200,21739,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 11:05:38,198.18.1.26,-,GET,/products,200,26046,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 11:06:43,198.18.0.33,mike,GET,/static/css/style.css,200,16785,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:08:46,198.18.1.35,-,GET,/static/js/app.js,200,43752,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 11:08:50,198.18.1.29,-,GET,/favicon.ico,200,5296,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:11:16,192.168.1.21,frank,GET,/static/js/app.js,200,9107,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 11:12:17,198.18.1.17,-,GET,/,200,31223,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 11:12:44,198.18.0.33,mike,GET,/products/item-205,200,38273,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:13:40,198.18.1.10,-,GET,/blog,200,27781,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:15:03,198.18.0.32,laura,GET,/products/item-318,200,31300,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 11:16:23,10.0.0.15,eve,GET,/contact,200,31340,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 11:16:49,198.18.1.11,-,GET,/products,200,38411,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 11:17:03,198.18.1.12,-,GET,/static/js/app.js,200,36877,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:17:38,198.18.1.36,-,GET,/home,200,22010,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:18:04,198.18.1.19,-,GET,/products,200,41105,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 11:19:15,192.0.2.140,-,GET,/config,403,306,curl/8.4.0
+2026-10-25 11:19:31,198.18.1.20,-,GET,/api/items,200,12319,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 11:19:55,192.0.2.140,-,GET,/config,403,972,curl/8.4.0
+2026-10-25 11:20:35,192.0.2.140,-,GET,/admin,403,641,curl/8.4.0
+2026-10-25 11:20:42,192.168.1.23,heidi,GET,/products,200,25330,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 11:21:15,192.0.2.140,-,GET,/admin,403,984,curl/8.4.0
+2026-10-25 11:21:20,198.18.1.36,-,GET,/products,200,11339,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 11:21:52,198.18.0.32,laura,GET,/products,200,21178,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 11:21:55,192.0.2.140,-,GET,/config,401,359,curl/8.4.0
+2026-10-25 11:22:35,192.0.2.140,-,GET,/config,403,1246,curl/8.4.0
+2026-10-25 11:22:36,192.168.1.22,grace,GET,/static/img/logo.png,200,46627,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 11:23:15,192.0.2.140,-,GET,/config,401,1034,curl/8.4.0
+2026-10-25 11:23:55,192.0.2.140,-,GET,/admin,401,1053,curl/8.4.0
+2026-10-25 11:24:35,192.0.2.140,-,GET,/admin/users,403,1099,curl/8.4.0
+2026-10-25 11:25:03,10.0.0.15,eve,GET,/static/css/style.css,200,24558,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:25:15,192.0.2.140,-,GET,/config,401,603,curl/8.4.0
+2026-10-25 11:25:52,10.0.0.14,dave,GET,/api/items,200,17401,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 11:25:55,192.0.2.140,-,GET,/config,401,1369,curl/8.4.0
+2026-10-25 11:26:12,198.18.1.27,-,GET,/products,200,42137,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:26:35,192.0.2.140,-,GET,/config,401,462,curl/8.4.0
+2026-10-25 11:27:15,192.0.2.140,-,GET,/admin/users,401,1060,curl/8.4.0
+2026-10-25 11:27:46,198.18.1.36,-,GET,/blog/security-tips,200,4594,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:27:55,192.0.2.140,-,GET,/admin,401,830,curl/8.4.0
+2026-10-25 11:29:41,192.168.1.25,judy,GET,/blog,304,0,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 11:31:36,198.18.1.38,-,GET,/about,200,3255,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 11:31:54,192.168.1.23,heidi,GET,/products/item-318,200,12717,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 11:34:24,198.18.1.15,-,GET,/api/items,200,32223,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 11:36:02,10.0.0.12,bob,GET,/home,200,45303,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:41:11,198.18.1.20,-,GET,/,200,46373,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 11:50:25,10.0.0.14,dave,GET,/blog,200,25248,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 11:52:17,198.18.0.34,nina,GET,/products/item-205,200,40538,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 11:57:42,203.0.113.12,-,GET,/config,401,703,curl/8.4.0
+2026-10-25 11:58:22,203.0.113.12,-,GET,/admin,401,761,curl/8.4.0
+2026-10-25 11:59:02,203.0.113.12,-,GET,/admin,403,288,curl/8.4.0
+2026-10-25 11:59:42,203.0.113.12,-,GET,/admin/users,401,316,curl/8.4.0
+2026-10-25 12:00:22,203.0.113.12,-,GET,/admin/users,403,917,curl/8.4.0
+2026-10-25 12:00:33,198.18.1.36,-,GET,/products/item-101,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:01:02,203.0.113.12,-,GET,/admin,401,779,curl/8.4.0
+2026-10-25 12:01:42,203.0.113.12,-,GET,/config,403,653,curl/8.4.0
+2026-10-25 12:02:02,198.18.0.33,mike,GET,/contact,200,7564,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 12:02:22,203.0.113.12,-,GET,/admin/users,401,826,curl/8.4.0
+2026-10-25 12:02:37,198.18.1.19,-,GET,/home,200,23289,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:03:02,203.0.113.12,-,GET,/admin/users,401,561,curl/8.4.0
+2026-10-25 12:03:42,203.0.113.12,-,GET,/admin,403,1328,curl/8.4.0
+2026-10-25 12:04:22,203.0.113.12,-,GET,/config,401,261,curl/8.4.0
+2026-10-25 12:05:02,203.0.113.12,-,GET,/admin,403,863,curl/8.4.0
+2026-10-25 12:05:42,203.0.113.12,-,GET,/admin/users,403,501,curl/8.4.0
+2026-10-25 12:05:51,10.0.0.12,bob,GET,/products,304,0,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 12:06:22,203.0.113.12,-,GET,/admin,403,900,curl/8.4.0
+2026-10-25 12:06:31,198.18.1.11,-,GET,/favicon.ico,200,5616,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 12:09:06,198.18.1.20,-,GET,/home,200,19819,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:13:53,192.168.1.22,grace,GET,/products,200,26324,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 12:18:35,198.18.1.26,-,GET,/home,200,13372,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:18:48,192.168.1.21,frank,GET,/static/css/style.css,200,16135,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 12:19:50,198.18.1.21,-,GET,/about,200,39919,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:21:18,198.18.1.39,-,GET,/static/css/style.css,200,9540,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 12:21:46,198.18.0.32,laura,GET,/static/img/logo.png,200,32356,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:22:14,192.168.1.24,ivan,GET,/,200,44272,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:22:49,198.18.0.31,karl,GET,/products/item-205,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:23:05,10.0.0.14,dave,GET,/about,200,4177,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:23:32,198.18.1.26,-,GET,/,200,30422,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:24:21,192.168.1.21,frank,GET,/products,200,33319,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:25:15,198.18.1.30,-,GET,/products/item-318,200,43795,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:25:33,198.18.1.12,-,GET,/products,200,26736,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:26:44,198.18.1.13,-,GET,/home,200,27694,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:28:33,198.18.0.31,karl,GET,/,200,24648,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:29:13,10.0.0.12,bob,GET,/static/css/style.css,200,40558,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 12:32:52,10.0.0.15,eve,GET,/about,404,1291,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:36:04,198.18.1.33,-,GET,/products,200,21576,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:36:28,198.18.1.22,-,GET,/static/img/logo.png,200,33466,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:37:23,198.18.0.31,karl,GET,/blog,200,6706,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:38:30,198.18.1.32,-,GET,/products,200,35820,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 12:41:54,198.18.0.32,laura,GET,/api/items,200,11348,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:44:28,198.18.1.26,-,GET,/products,200,5202,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 12:45:23,198.18.1.29,-,GET,/api/items,200,37773,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:48:35,198.18.0.32,laura,GET,/products,200,30607,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:48:37,198.18.1.12,-,GET,/blog/security-tips,200,37080,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 12:50:39,198.18.1.17,-,GET,/home,200,4916,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 12:50:44,198.18.1.26,-,GET,/home,200,43707,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 12:53:05,192.168.1.22,grace,GET,/home,301,250,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 12:56:14,198.18.1.34,-,GET,/products/item-205,304,0,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 12:58:38,198.18.1.25,-,GET,/home,200,5375,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:00:02,198.18.1.30,-,GET,/products,200,25251,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:02:08,198.18.1.35,-,GET,/static/img/logo.png,404,385,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:05:25,198.18.1.30,-,GET,/api/items,200,12909,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 13:07:15,198.18.1.35,-,GET,/api/items,301,250,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 13:07:59,198.18.1.11,-,GET,/,200,29720,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:09:28,198.18.1.36,-,GET,/products/item-318,500,886,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 13:10:46,198.18.1.25,-,GET,/favicon.ico,200,11892,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:10:46,198.18.1.36,-,GET,/static/js/app.js,200,30518,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:14:32,198.18.0.32,laura,GET,/products,200,5523,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:15:45,192.168.1.23,heidi,GET,/blog,200,19888,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:18:26,198.18.1.39,-,GET,/api/items,404,457,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:19:10,198.18.1.39,-,GET,/api/items,200,21945,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:19:10,198.18.1.21,-,GET,/about,200,3796,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 13:20:11,198.18.1.27,-,GET,/about,200,35739,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 13:21:17,198.18.1.29,-,GET,/home,200,18945,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:22:01,192.168.1.23,heidi,GET,/static/js/app.js,200,7651,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 13:24:41,198.18.1.35,-,GET,/,200,45873,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:26:03,198.18.1.26,-,GET,/,200,9802,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:27:23,198.18.1.20,-,GET,/,200,47154,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 13:27:56,10.0.0.15,eve,GET,/products,200,23261,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:31:02,198.18.1.36,-,GET,/static/js/app.js,200,43498,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:31:45,198.18.1.19,-,GET,/products/item-318,200,31922,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:31:56,198.18.1.16,-,GET,/static/js/app.js,200,33395,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:32:12,198.18.0.34,nina,GET,/blog/security-tips,200,20168,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 13:33:47,198.18.1.28,-,POST,/api/cart,201,483,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 13:37:09,198.18.0.34,nina,GET,/contact,200,31021,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:38:12,198.18.1.13,-,GET,/home,200,35084,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:40:19,198.18.0.34,nina,GET,/static/js/app.js,200,17359,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:42:22,198.18.1.17,-,GET,/static/css/style.css,200,11940,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:43:31,192.168.1.22,grace,POST,/api/cart,201,563,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 13:44:40,198.18.0.32,laura,GET,/blog/security-tips,301,250,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:47:16,198.18.1.38,-,GET,/products/item-205,200,45345,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 13:48:15,10.0.0.14,dave,GET,/,200,43129,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 13:51:19,192.168.1.22,grace,GET,/products,200,26748,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 13:51:51,198.18.1.27,-,GET,/home,301,250,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 13:54:14,198.18.1.19,-,GET,/contact,200,47171,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 13:54:49,198.18.1.14,-,GET,/,200,30646,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 13:59:47,198.18.1.11,-,GET,/favicon.ico,200,3255,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:00:32,198.18.1.31,-,GET,/products/item-101,200,37595,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:01:33,192.168.1.23,heidi,GET,/,200,844,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:01:56,198.18.1.26,-,POST,/api/cart,201,243,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:05:04,10.0.0.12,bob,GET,/static/img/logo.png,200,15333,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:08:26,198.18.1.13,-,GET,/blog/security-tips,200,34327,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:09:10,198.18.0.34,nina,GET,/products/item-205,200,34901,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:11:38,198.18.1.22,-,GET,/static/img/logo.png,200,40867,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:12:06,10.0.0.12,bob,GET,/home,200,14362,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:13:25,198.18.1.34,-,GET,/products,200,36981,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:13:27,198.18.1.32,-,GET,/contact,200,33221,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:16:00,10.0.0.15,eve,GET,/products/item-205,200,31361,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:17:02,192.168.1.21,frank,GET,/,200,37064,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:19:20,198.18.0.34,nina,GET,/static/img/logo.png,200,32192,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:20:00,203.0.113.50,-,GET,/search?q=phone,200,36052,python-requests/2.31.0
+2026-10-25 14:20:01,203.0.113.50,-,GET,/api/items?page=2,200,17193,python-requests/2.31.0
+2026-10-25 14:20:03,203.0.113.50,-,GET,/,200,25512,python-requests/2.31.0
+2026-10-25 14:20:05,203.0.113.50,-,GET,/api/items?page=2,200,32495,python-requests/2.31.0
+2026-10-25 14:20:07,203.0.113.50,-,GET,/products,200,23060,python-requests/2.31.0
+2026-10-25 14:20:09,203.0.113.50,-,GET,/,200,45468,python-requests/2.31.0
+2026-10-25 14:20:11,203.0.113.50,-,GET,/,200,39258,python-requests/2.31.0
+2026-10-25 14:20:12,203.0.113.50,-,GET,/api/items,200,32386,python-requests/2.31.0
+2026-10-25 14:20:14,203.0.113.50,-,GET,/api/items,200,17696,python-requests/2.31.0
+2026-10-25 14:20:16,203.0.113.50,-,GET,/api/items,200,25878,python-requests/2.31.0
+2026-10-25 14:20:18,203.0.113.50,-,GET,/products,200,45162,python-requests/2.31.0
+2026-10-25 14:20:20,203.0.113.50,-,GET,/products,200,21491,python-requests/2.31.0
+2026-10-25 14:20:22,203.0.113.50,-,GET,/,200,23940,python-requests/2.31.0
+2026-10-25 14:20:23,203.0.113.50,-,GET,/api/items?page=2,200,35904,python-requests/2.31.0
+2026-10-25 14:20:25,203.0.113.50,-,GET,/api/items,200,46728,python-requests/2.31.0
+2026-10-25 14:20:27,203.0.113.50,-,GET,/search?q=phone,200,17069,python-requests/2.31.0
+2026-10-25 14:20:29,203.0.113.50,-,GET,/search?q=phone,200,6895,python-requests/2.31.0
+2026-10-25 14:20:31,203.0.113.50,-,GET,/,200,44951,python-requests/2.31.0
+2026-10-25 14:20:32,198.18.1.14,-,GET,/,200,28237,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:20:33,203.0.113.50,-,GET,/search?q=phone,200,5782,python-requests/2.31.0
+2026-10-25 14:20:34,203.0.113.50,-,GET,/api/items?page=2,200,12497,python-requests/2.31.0
+2026-10-25 14:20:36,203.0.113.50,-,GET,/,200,21369,python-requests/2.31.0
+2026-10-25 14:20:38,203.0.113.50,-,GET,/search?q=phone,200,15123,python-requests/2.31.0
+2026-10-25 14:20:40,203.0.113.50,-,GET,/api/items?page=2,200,18434,python-requests/2.31.0
+2026-10-25 14:20:42,203.0.113.50,-,GET,/products,200,45568,python-requests/2.31.0
+2026-10-25 14:20:44,203.0.113.50,-,GET,/products,200,33502,python-requests/2.31.0
+2026-10-25 14:20:45,203.0.113.50,-,GET,/products,200,16191,python-requests/2.31.0
+2026-10-25 14:20:47,203.0.113.50,-,GET,/products,200,18193,python-requests/2.31.0
+2026-10-25 14:20:49,203.0.113.50,-,GET,/products,200,15821,python-requests/2.31.0
+2026-10-25 14:20:51,203.0.113.50,-,GET,/products,200,17164,python-requests/2.31.0
+2026-10-25 14:20:53,203.0.113.50,-,GET,/api/items?page=2,200,24132,python-requests/2.31.0
+2026-10-25 14:20:55,203.0.113.50,-,GET,/products,200,7791,python-requests/2.31.0
+2026-10-25 14:20:56,203.0.113.50,-,GET,/api/items,200,5943,python-requests/2.31.0
+2026-10-25 14:20:58,203.0.113.50,-,GET,/,200,41027,python-requests/2.31.0
+2026-10-25 14:21:00,203.0.113.50,-,GET,/api/items,200,36286,python-requests/2.31.0
+2026-10-25 14:21:02,203.0.113.50,-,GET,/api/items,200,32407,python-requests/2.31.0
+2026-10-25 14:21:04,203.0.113.50,-,GET,/search?q=phone,200,41476,python-requests/2.31.0
+2026-10-25 14:21:06,203.0.113.50,-,GET,/search?q=phone,200,33066,python-requests/2.31.0
+2026-10-25 14:21:07,203.0.113.50,-,GET,/api/items?page=2,200,18804,python-requests/2.31.0
+2026-10-25 14:21:09,203.0.113.50,-,GET,/,200,12784,python-requests/2.31.0
+2026-10-25 14:21:11,203.0.113.50,-,GET,/api/items?page=2,200,19167,python-requests/2.31.0
+2026-10-25 14:21:13,203.0.113.50,-,GET,/,200,15355,python-requests/2.31.0
+2026-10-25 14:21:15,203.0.113.50,-,GET,/api/items?page=2,200,9204,python-requests/2.31.0
+2026-10-25 14:21:17,203.0.113.50,-,GET,/api/items,200,35254,python-requests/2.31.0
+2026-10-25 14:21:18,203.0.113.50,-,GET,/,200,32147,python-requests/2.31.0
+2026-10-25 14:21:20,203.0.113.50,-,GET,/api/items?page=2,200,2934,python-requests/2.31.0
+2026-10-25 14:21:22,203.0.113.50,-,GET,/api/items?page=2,200,23559,python-requests/2.31.0
+2026-10-25 14:21:24,203.0.113.50,-,GET,/,200,45779,python-requests/2.31.0
+2026-10-25 14:21:26,203.0.113.50,-,GET,/products,200,30762,python-requests/2.31.0
+2026-10-25 14:21:28,203.0.113.50,-,GET,/api/items,200,46560,python-requests/2.31.0
+2026-10-25 14:21:29,203.0.113.50,-,GET,/api/items?page=2,200,30951,python-requests/2.31.0
+2026-10-25 14:21:31,203.0.113.50,-,GET,/search?q=phone,200,45968,python-requests/2.31.0
+2026-10-25 14:21:33,203.0.113.50,-,GET,/api/items,200,1574,python-requests/2.31.0
+2026-10-25 14:21:35,203.0.113.50,-,GET,/products,200,25666,python-requests/2.31.0
+2026-10-25 14:21:37,203.0.113.50,-,GET,/api/items?page=2,200,7402,python-requests/2.31.0
+2026-10-25 14:21:39,203.0.113.50,-,GET,/search?q=phone,200,24497,python-requests/2.31.0
+2026-10-25 14:21:40,203.0.113.50,-,GET,/api/items?page=2,200,17819,python-requests/2.31.0
+2026-10-25 14:21:42,203.0.113.50,-,GET,/products,200,36750,python-requests/2.31.0
+2026-10-25 14:21:44,203.0.113.50,-,GET,/search?q=phone,200,16341,python-requests/2.31.0
+2026-10-25 14:21:46,203.0.113.50,-,GET,/search?q=phone,200,31690,python-requests/2.31.0
+2026-10-25 14:21:48,203.0.113.50,-,GET,/api/items?page=2,200,23285,python-requests/2.31.0
+2026-10-25 14:21:50,203.0.113.50,-,GET,/search?q=phone,200,12852,python-requests/2.31.0
+2026-10-25 14:21:51,203.0.113.50,-,GET,/,200,28583,python-requests/2.31.0
+2026-10-25 14:21:53,203.0.113.50,-,GET,/products,200,28265,python-requests/2.31.0
+2026-10-25 14:21:55,203.0.113.50,-,GET,/search?q=phone,200,24725,python-requests/2.31.0
+2026-10-25 14:21:57,203.0.113.50,-,GET,/,200,19125,python-requests/2.31.0
+2026-10-25 14:21:59,203.0.113.50,-,GET,/,200,12589,python-requests/2.31.0
+2026-10-25 14:22:01,203.0.113.50,-,GET,/api/items?page=2,200,9394,python-requests/2.31.0
+2026-10-25 14:22:02,203.0.113.50,-,GET,/api/items?page=2,200,45758,python-requests/2.31.0
+2026-10-25 14:22:04,203.0.113.50,-,GET,/products,200,7345,python-requests/2.31.0
+2026-10-25 14:22:06,203.0.113.50,-,GET,/search?q=phone,200,16253,python-requests/2.31.0
+2026-10-25 14:22:08,203.0.113.50,-,GET,/api/items?page=2,200,29125,python-requests/2.31.0
+2026-10-25 14:22:10,203.0.113.50,-,GET,/,200,13649,python-requests/2.31.0
+2026-10-25 14:22:12,203.0.113.50,-,GET,/products,200,10600,python-requests/2.31.0
+2026-10-25 14:22:13,203.0.113.50,-,GET,/,200,1438,python-requests/2.31.0
+2026-10-25 14:22:15,203.0.113.50,-,GET,/products,200,28424,python-requests/2.31.0
+2026-10-25 14:22:17,203.0.113.50,-,GET,/,200,9612,python-requests/2.31.0
+2026-10-25 14:22:19,203.0.113.50,-,GET,/api/items?page=2,200,35795,python-requests/2.31.0
+2026-10-25 14:22:21,203.0.113.50,-,GET,/search?q=phone,200,32691,python-requests/2.31.0
+2026-10-25 14:22:22,198.18.1.20,-,GET,/blog,200,41259,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:22:23,203.0.113.50,-,GET,/search?q=phone,200,17247,python-requests/2.31.0
+2026-10-25 14:22:24,203.0.113.50,-,GET,/api/items?page=2,200,38013,python-requests/2.31.0
+2026-10-25 14:22:26,203.0.113.50,-,GET,/api/items,200,26909,python-requests/2.31.0
+2026-10-25 14:22:28,203.0.113.50,-,GET,/api/items,200,46055,python-requests/2.31.0
+2026-10-25 14:22:30,203.0.113.50,-,GET,/products,200,4734,python-requests/2.31.0
+2026-10-25 14:22:32,203.0.113.50,-,GET,/products,200,17465,python-requests/2.31.0
+2026-10-25 14:22:34,203.0.113.50,-,GET,/,200,42078,python-requests/2.31.0
+2026-10-25 14:22:35,203.0.113.50,-,GET,/api/items,200,30281,python-requests/2.31.0
+2026-10-25 14:22:37,203.0.113.50,-,GET,/search?q=phone,200,17824,python-requests/2.31.0
+2026-10-25 14:22:39,203.0.113.50,-,GET,/search?q=phone,200,24413,python-requests/2.31.0
+2026-10-25 14:22:41,203.0.113.50,-,GET,/api/items?page=2,200,37335,python-requests/2.31.0
+2026-10-25 14:22:43,203.0.113.50,-,GET,/search?q=phone,200,23353,python-requests/2.31.0
+2026-10-25 14:22:45,203.0.113.50,-,GET,/api/items,200,27785,python-requests/2.31.0
+2026-10-25 14:22:46,203.0.113.50,-,GET,/api/items,200,23809,python-requests/2.31.0
+2026-10-25 14:22:48,203.0.113.50,-,GET,/api/items?page=2,200,13838,python-requests/2.31.0
+2026-10-25 14:22:50,203.0.113.50,-,GET,/api/items?page=2,200,38541,python-requests/2.31.0
+2026-10-25 14:22:52,203.0.113.50,-,GET,/api/items?page=2,200,12238,python-requests/2.31.0
+2026-10-25 14:22:54,203.0.113.50,-,GET,/search?q=phone,200,24072,python-requests/2.31.0
+2026-10-25 14:22:56,203.0.113.50,-,GET,/search?q=phone,200,44918,python-requests/2.31.0
+2026-10-25 14:22:57,203.0.113.50,-,GET,/api/items?page=2,200,32748,python-requests/2.31.0
+2026-10-25 14:22:59,203.0.113.50,-,GET,/,200,5938,python-requests/2.31.0
+2026-10-25 14:23:01,203.0.113.50,-,GET,/,200,41017,python-requests/2.31.0
+2026-10-25 14:23:03,203.0.113.50,-,GET,/search?q=phone,200,31192,python-requests/2.31.0
+2026-10-25 14:23:05,203.0.113.50,-,GET,/products,200,11782,python-requests/2.31.0
+2026-10-25 14:23:07,203.0.113.50,-,GET,/search?q=phone,200,28444,python-requests/2.31.0
+2026-10-25 14:23:08,203.0.113.50,-,GET,/api/items?page=2,200,38262,python-requests/2.31.0
+2026-10-25 14:23:10,203.0.113.50,-,GET,/,200,5475,python-requests/2.31.0
+2026-10-25 14:23:12,203.0.113.50,-,GET,/api/items,200,11416,python-requests/2.31.0
+2026-10-25 14:23:14,203.0.113.50,-,GET,/search?q=phone,200,15756,python-requests/2.31.0
+2026-10-25 14:23:16,203.0.113.50,-,GET,/search?q=phone,200,21566,python-requests/2.31.0
+2026-10-25 14:23:18,203.0.113.50,-,GET,/search?q=phone,200,47358,python-requests/2.31.0
+2026-10-25 14:23:19,203.0.113.50,-,GET,/search?q=phone,200,40474,python-requests/2.31.0
+2026-10-25 14:23:21,203.0.113.50,-,GET,/search?q=phone,429,1091,python-requests/2.31.0
+2026-10-25 14:23:23,203.0.113.50,-,GET,/search?q=phone,429,1382,python-requests/2.31.0
+2026-10-25 14:23:25,203.0.113.50,-,GET,/,429,1027,python-requests/2.31.0
+2026-10-25 14:23:27,203.0.113.50,-,GET,/api/items,200,8994,python-requests/2.31.0
+2026-10-25 14:23:29,203.0.113.50,-,GET,/search?q=phone,429,343,python-requests/2.31.0
+2026-10-25 14:23:30,203.0.113.50,-,GET,/,200,7550,python-requests/2.31.0
+2026-10-25 14:23:32,203.0.113.50,-,GET,/,200,36742,python-requests/2.31.0
+2026-10-25 14:23:34,203.0.113.50,-,GET,/,200,35139,python-requests/2.31.0
+2026-10-25 14:23:36,203.0.113.50,-,GET,/api/items,429,392,python-requests/2.31.0
+2026-10-25 14:23:38,203.0.113.50,-,GET,/products,200,6325,python-requests/2.31.0
+2026-10-25 14:23:40,203.0.113.50,-,GET,/,429,813,python-requests/2.31.0
+2026-10-25 14:23:41,203.0.113.50,-,GET,/search?q=phone,200,29842,python-requests/2.31.0
+2026-10-25 14:23:43,203.0.113.50,-,GET,/products,429,1258,python-requests/2.31.0
+2026-10-25 14:23:45,203.0.113.50,-,GET,/api/items,429,251,python-requests/2.31.0
+2026-10-25 14:23:47,203.0.113.50,-,GET,/search?q=phone,429,1155,python-requests/2.31.0
+2026-10-25 14:23:48,198.18.1.22,-,GET,/contact,404,587,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:23:49,203.0.113.50,-,GET,/api/items?page=2,429,737,python-requests/2.31.0
+2026-10-25 14:23:51,203.0.113.50,-,GET,/products,429,1284,python-requests/2.31.0
+2026-10-25 14:23:52,203.0.113.50,-,GET,/api/items?page=2,200,30720,python-requests/2.31.0
+2026-10-25 14:23:54,203.0.113.50,-,GET,/api/items?page=2,429,1070,python-requests/2.31.0
+2026-10-25 14:23:56,203.0.113.50,-,GET,/api/items?page=2,429,814,python-requests/2.31.0
+2026-10-25 14:23:58,203.0.113.50,-,GET,/,429,1285,python-requests/2.31.0
+2026-10-25 14:24:00,203.0.113.50,-,GET,/api/items,200,29757,python-requests/2.31.0
+2026-10-25 14:24:02,203.0.113.50,-,GET,/,429,712,python-requests/2.31.0
+2026-10-25 14:24:03,203.0.113.50,-,GET,/api/items,200,806,python-requests/2.31.0
+2026-10-25 14:24:05,203.0.113.50,-,GET,/products,429,884,python-requests/2.31.0
+2026-10-25 14:24:07,203.0.113.50,-,GET,/api/items?page=2,200,1345,python-requests/2.31.0
+2026-10-25 14:24:09,203.0.113.50,-,GET,/,429,1157,python-requests/2.31.0
+2026-10-25 14:24:11,203.0.113.50,-,GET,/,200,19996,python-requests/2.31.0
+2026-10-25 14:24:13,203.0.113.50,-,GET,/api/items,429,1302,python-requests/2.31.0
+2026-10-25 14:24:14,203.0.113.50,-,GET,/,429,1328,python-requests/2.31.0
+2026-10-25 14:24:16,203.0.113.50,-,GET,/products,429,514,python-requests/2.31.0
+2026-10-25 14:24:18,203.0.113.50,-,GET,/,429,954,python-requests/2.31.0
+2026-10-25 14:24:20,203.0.113.50,-,GET,/api/items,200,28471,python-requests/2.31.0
+2026-10-25 14:24:22,203.0.113.50,-,GET,/api/items?page=2,429,1435,python-requests/2.31.0
+2026-10-25 14:24:24,203.0.113.50,-,GET,/search?q=phone,429,763,python-requests/2.31.0
+2026-10-25 14:24:25,203.0.113.50,-,GET,/api/items?page=2,429,730,python-requests/2.31.0
+2026-10-25 14:24:27,203.0.113.50,-,GET,/api/items,429,553,python-requests/2.31.0
+2026-10-25 14:24:29,203.0.113.50,-,GET,/api/items,200,42539,python-requests/2.31.0
+2026-10-25 14:24:31,203.0.113.50,-,GET,/,429,737,python-requests/2.31.0
+2026-10-25 14:24:33,203.0.113.50,-,GET,/,429,564,python-requests/2.31.0
+2026-10-25 14:24:35,203.0.113.50,-,GET,/products,429,281,python-requests/2.31.0
+2026-10-25 14:24:36,203.0.113.50,-,GET,/api/items,429,560,python-requests/2.31.0
+2026-10-25 14:24:38,203.0.113.50,-,GET,/search?q=phone,429,731,python-requests/2.31.0
+2026-10-25 14:24:40,203.0.113.50,-,GET,/,200,1337,python-requests/2.31.0
+2026-10-25 14:24:42,203.0.113.50,-,GET,/products,200,1765,python-requests/2.31.0
+2026-10-25 14:24:44,203.0.113.50,-,GET,/search?q=phone,429,1040,python-requests/2.31.0
+2026-10-25 14:24:46,203.0.113.50,-,GET,/,429,940,python-requests/2.31.0
+2026-10-25 14:24:47,203.0.113.50,-,GET,/api/items,429,856,python-requests/2.31.0
+2026-10-25 14:24:49,203.0.113.50,-,GET,/products,200,4472,python-requests/2.31.0
+2026-10-25 14:24:51,203.0.113.50,-,GET,/,200,5478,python-requests/2.31.0
+2026-10-25 14:24:53,203.0.113.50,-,GET,/products,429,573,python-requests/2.31.0
+2026-10-25 14:24:55,198.18.1.27,-,GET,/products/item-101,404,269,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:24:55,203.0.113.50,-,GET,/search?q=phone,429,961,python-requests/2.31.0
+2026-10-25 14:24:57,203.0.113.50,-,GET,/api/items,429,689,python-requests/2.31.0
+2026-10-25 14:24:58,203.0.113.50,-,GET,/,429,686,python-requests/2.31.0
+2026-10-25 14:25:00,203.0.113.50,-,GET,/api/items,429,587,python-requests/2.31.0
+2026-10-25 14:25:02,203.0.113.50,-,GET,/api/items,429,1247,python-requests/2.31.0
+2026-10-25 14:25:04,203.0.113.50,-,GET,/products,429,1148,python-requests/2.31.0
+2026-10-25 14:25:06,203.0.113.50,-,GET,/search?q=phone,429,841,python-requests/2.31.0
+2026-10-25 14:25:08,203.0.113.50,-,GET,/api/items,200,36817,python-requests/2.31.0
+2026-10-25 14:25:09,203.0.113.50,-,GET,/search?q=phone,429,1165,python-requests/2.31.0
+2026-10-25 14:25:11,203.0.113.50,-,GET,/products,429,918,python-requests/2.31.0
+2026-10-25 14:25:13,203.0.113.50,-,GET,/products,429,411,python-requests/2.31.0
+2026-10-25 14:25:15,203.0.113.50,-,GET,/,200,22067,python-requests/2.31.0
+2026-10-25 14:25:17,203.0.113.50,-,GET,/search?q=phone,200,39118,python-requests/2.31.0
+2026-10-25 14:25:19,203.0.113.50,-,GET,/products,200,1385,python-requests/2.31.0
+2026-10-25 14:25:20,203.0.113.50,-,GET,/api/items?page=2,429,1153,python-requests/2.31.0
+2026-10-25 14:25:22,203.0.113.50,-,GET,/products,429,940,python-requests/2.31.0
+2026-10-25 14:25:24,203.0.113.50,-,GET,/products,429,502,python-requests/2.31.0
+2026-10-25 14:25:26,203.0.113.50,-,GET,/api/items?page=2,429,873,python-requests/2.31.0
+2026-10-25 14:25:28,203.0.113.50,-,GET,/api/items,429,302,python-requests/2.31.0
+2026-10-25 14:25:34,198.18.1.27,-,GET,/,200,20768,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:27:08,198.18.1.33,-,GET,/api/items,200,32069,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:31:09,10.0.0.14,dave,GET,/,200,24447,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:33:23,198.18.1.21,-,GET,/contact,200,21403,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:33:44,198.18.1.26,-,GET,/home,200,41117,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:35:20,198.18.1.39,-,GET,/static/js/app.js,200,34858,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:37:37,198.18.1.17,-,GET,/static/css/style.css,200,20145,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:37:47,198.18.1.31,-,POST,/api/cart,201,412,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:41:03,192.168.1.24,ivan,GET,/products,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:42:01,198.18.1.29,-,GET,/products/item-101,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:42:07,198.18.1.27,-,GET,/,301,250,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:42:45,198.18.1.34,-,GET,/about,200,44987,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:42:52,198.18.0.32,laura,GET,/products/item-205,200,17017,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:42:55,198.18.1.26,-,GET,/static/js/app.js,200,34819,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:43:49,198.18.0.34,nina,GET,/blog/security-tips,200,40541,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:46:03,198.18.1.30,-,GET,/static/js/app.js,200,11974,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:46:47,192.168.1.22,grace,GET,/,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:47:38,198.18.1.32,-,GET,/static/css/style.css,200,13481,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:48:02,198.18.0.33,mike,GET,/products/item-205,500,1298,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:49:45,192.168.1.24,ivan,GET,/products,404,462,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:49:52,198.18.1.28,-,GET,/home,200,40711,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:49:59,198.18.1.14,-,GET,/,304,0,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:50:11,192.168.1.22,grace,GET,/,200,12273,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:50:26,198.18.1.37,-,GET,/,200,27960,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:51:11,198.18.0.34,nina,GET,/favicon.ico,404,232,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:51:36,198.18.1.37,-,GET,/,200,12679,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:51:59,198.18.1.39,-,GET,/home,200,28661,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 14:52:39,198.18.1.12,-,GET,/contact,200,9232,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:55:49,198.18.1.21,-,GET,/products,200,30844,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 14:55:59,192.168.1.22,grace,GET,/static/img/logo.png,200,38333,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:56:59,198.18.1.30,-,GET,/about,200,15430,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 14:58:24,198.18.1.13,-,GET,/products/item-318,304,0,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 14:59:50,198.18.0.32,laura,GET,/products,200,19660,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:00:21,198.18.1.32,-,GET,/products,200,42327,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:02:14,198.18.0.31,karl,GET,/static/css/style.css,200,40077,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 15:03:50,10.0.0.15,eve,GET,/contact,200,5119,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:04:47,198.18.1.38,-,GET,/favicon.ico,200,2356,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:05:04,198.18.1.24,-,GET,/static/js/app.js,200,26893,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:05:32,192.168.1.24,ivan,GET,/home,200,39584,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:05:43,198.18.0.31,karl,GET,/static/css/style.css,200,21324,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:06:44,198.18.1.16,-,GET,/,200,45643,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:08:15,198.18.1.12,-,GET,/products/item-318,200,17904,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:09:47,10.0.0.13,carol,GET,/,301,250,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 15:11:22,198.18.1.33,-,GET,/contact,200,13065,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:12:07,198.18.1.33,-,GET,/static/css/style.css,200,14928,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 15:12:28,198.18.1.20,-,GET,/home,200,27484,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:13:09,198.18.1.24,-,GET,/,200,11112,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:15:35,198.18.1.20,-,GET,/static/js/app.js,200,46051,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:15:41,192.168.1.23,heidi,GET,/api/items,200,33495,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:16:16,198.18.1.23,-,GET,/contact,200,37806,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 15:18:43,198.18.1.27,-,GET,/blog,200,44864,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:19:25,198.18.1.22,-,GET,/static/css/style.css,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 15:19:56,198.18.1.36,-,GET,/,200,43699,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:27:10,198.18.1.28,-,GET,/static/css/style.css,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:27:20,198.18.1.39,-,GET,/home,200,26326,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 15:28:00,198.18.1.11,-,POST,/api/cart,201,536,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:29:28,10.0.0.14,dave,GET,/products,200,45077,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 15:30:35,192.168.1.21,frank,GET,/home,301,250,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 15:31:09,192.168.1.21,frank,GET,/static/img/logo.png,200,41944,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:36:41,198.18.1.31,-,GET,/blog/security-tips,200,22531,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 15:39:15,192.168.1.21,frank,GET,/products,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 15:42:54,10.0.0.12,bob,POST,/api/cart,200,47969,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 15:43:05,198.18.1.38,-,GET,/,200,29839,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:44:10,192.168.1.22,grace,GET,/contact,200,33558,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 15:44:56,192.168.1.22,grace,GET,/,200,22755,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 15:49:33,198.18.0.33,mike,GET,/products,200,30324,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 15:51:25,192.168.1.22,grace,GET,/products,200,31430,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:51:44,192.168.1.21,frank,GET,/static/css/style.css,304,0,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:52:37,10.0.0.12,bob,GET,/api/items,200,39468,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 15:53:38,198.18.1.31,-,GET,/products,500,834,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:56:36,198.18.1.34,-,GET,/products/item-205,200,41905,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:57:12,198.18.0.31,karl,GET,/blog/security-tips,200,32641,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 15:58:17,198.18.1.34,-,GET,/static/js/app.js,200,39160,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 15:58:49,198.18.1.34,-,POST,/api/cart,201,533,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 15:59:24,198.18.1.35,-,GET,/static/js/app.js,200,28100,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 16:02:13,198.18.0.33,mike,GET,/static/css/style.css,200,10520,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:02:25,192.168.1.22,grace,GET,/,200,46053,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:02:59,198.18.1.35,-,GET,/home,200,30324,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 16:03:10,198.18.1.20,-,GET,/static/js/app.js,200,42472,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 16:03:45,198.18.1.29,-,GET,/search?q=laptop,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 16:04:58,198.18.1.22,-,GET,/products/item-318,200,36818,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 16:06:06,198.18.1.25,-,GET,/,200,24888,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:07:01,10.0.0.13,carol,GET,/search?q=laptop,200,47316,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 16:08:11,198.18.1.36,-,GET,/,200,46806,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 16:19:26,198.18.1.30,-,GET,/,200,25158,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:19:55,192.168.1.22,grace,GET,/,200,30273,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 16:20:23,192.168.1.22,grace,GET,/static/css/style.css,200,6797,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 16:20:28,198.18.1.39,-,GET,/static/js/app.js,200,16109,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:21:28,10.0.0.12,bob,GET,/static/img/logo.png,200,18180,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 16:27:17,192.168.1.21,frank,GET,/home,200,9601,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:28:51,198.18.1.10,-,POST,/api/cart,201,554,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:30:22,198.18.1.32,-,GET,/blog,200,10542,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 16:31:36,192.168.1.22,grace,GET,/favicon.ico,200,22157,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 16:32:45,198.18.1.30,-,GET,/static/img/logo.png,200,28029,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:33:14,198.18.1.28,-,GET,/products/item-205,200,34918,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 16:34:57,198.18.1.17,-,GET,/static/img/logo.png,200,4768,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:37:34,198.18.1.26,-,GET,/blog,200,25484,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 16:40:28,198.18.1.11,-,GET,/,200,14140,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 16:41:05,198.18.0.33,mike,GET,/favicon.ico,200,44994,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:41:26,10.0.0.12,bob,GET,/blog,200,9960,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 16:42:05,192.168.1.23,heidi,GET,/static/js/app.js,301,250,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 16:42:58,192.168.1.24,ivan,GET,/static/css/style.css,200,22647,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 16:45:58,198.18.0.34,nina,GET,/static/js/app.js,200,26102,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 16:49:31,10.0.0.15,eve,GET,/,200,38333,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 16:51:50,198.18.1.10,-,GET,/static/css/style.css,200,38637,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 16:53:06,198.18.0.31,karl,GET,/blog,200,36042,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 16:53:46,198.18.1.34,-,GET,/contact,200,32459,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 16:56:12,198.18.0.31,karl,GET,/blog/security-tips,200,39610,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 16:58:51,192.168.1.25,judy,GET,/home,200,4703,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 17:01:15,198.18.1.25,-,GET,/home,200,9181,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:04:03,10.0.0.14,dave,GET,/blog/security-tips,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:05:27,198.18.1.31,-,GET,/search?q=laptop,200,25221,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:05:42,10.0.0.14,dave,GET,/favicon.ico,301,250,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:10:06,198.18.1.31,-,GET,/,200,34114,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:12:46,192.168.1.21,frank,GET,/products/item-318,200,10667,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:14:18,198.18.1.25,-,GET,/,200,18812,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:17:52,198.18.0.33,mike,GET,/static/img/logo.png,200,19336,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:19:38,198.18.1.21,-,GET,/search?q=laptop,200,19249,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:22:15,198.18.1.21,-,GET,/home,200,38935,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:22:30,198.18.1.27,-,GET,/static/js/app.js,404,884,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 17:25:32,198.18.1.24,-,GET,/,200,46328,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 17:26:08,198.18.1.12,-,POST,/api/cart,201,234,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:29:02,198.18.1.15,-,GET,/static/img/logo.png,200,14011,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 17:30:51,198.18.1.18,-,GET,/static/img/logo.png,200,22998,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 17:32:49,10.0.0.13,carol,GET,/,200,44180,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:34:20,10.0.0.12,bob,GET,/products/item-101,200,39232,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 17:36:23,192.168.1.22,grace,GET,/search?q=laptop,200,33701,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:36:43,198.18.1.32,-,GET,/,200,12301,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:38:18,192.168.1.23,heidi,GET,/home,200,13521,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:38:51,198.18.1.36,-,GET,/api/items,200,15152,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 17:39:43,10.0.0.11,alice,GET,/blog/security-tips,200,34494,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:41:04,10.0.0.15,eve,GET,/home,200,41953,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:43:53,198.18.1.29,-,GET,/home,200,41972,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:44:46,198.18.1.20,-,GET,/contact,200,33619,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:46:27,198.18.1.21,-,GET,/search?q=laptop,200,29020,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:48:45,10.0.0.15,eve,GET,/search?q=laptop,200,30199,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 17:49:43,198.18.0.31,karl,GET,/products,200,31870,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:52:08,198.18.1.12,-,GET,/home,200,43137,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:52:20,198.18.1.33,-,GET,/products/item-318,200,20576,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:55:02,198.18.1.19,-,GET,/home,200,24407,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 17:55:41,198.18.0.31,karl,GET,/home,200,18705,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 17:56:38,198.18.1.21,-,GET,/static/img/logo.png,200,33688,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 17:57:02,198.18.1.22,-,GET,/products,200,38264,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 17:57:18,198.18.1.24,-,GET,/home,200,5640,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 17:58:11,198.18.1.36,-,GET,/products/item-318,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 18:01:11,198.18.1.22,-,GET,/,200,13954,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 18:02:32,198.18.1.25,-,GET,/home,200,8682,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 18:06:57,198.18.1.30,-,GET,/static/js/app.js,200,15857,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 18:07:11,198.18.0.31,karl,GET,/api/items,200,35458,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 18:10:52,198.18.1.37,-,GET,/blog,200,38659,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 18:15:47,10.0.0.11,alice,GET,/products,200,27162,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 18:21:38,198.18.1.21,-,GET,/,200,22189,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 18:21:49,198.18.1.27,-,GET,/home,200,39858,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 18:24:51,10.0.0.15,eve,GET,/,200,29650,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 18:25:08,198.18.0.34,nina,GET,/static/css/style.css,200,34549,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 18:26:16,198.18.1.39,-,GET,/static/img/logo.png,200,1158,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 18:28:16,198.18.1.27,-,GET,/products,200,42589,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 18:29:16,198.18.1.30,-,GET,/home,304,0,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 18:33:19,198.18.1.29,-,GET,/,200,42961,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 18:35:46,198.18.1.38,-,GET,/,200,8086,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 18:36:03,198.18.1.18,-,GET,/products,200,46443,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 18:36:37,198.18.1.10,-,GET,/,404,731,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 18:41:43,198.18.1.14,-,GET,/contact,200,5283,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 18:56:02,198.18.1.20,-,GET,/products,200,9869,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 18:57:43,198.18.1.19,-,GET,/home,200,9685,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 19:02:20,198.18.1.13,-,GET,/products,200,20026,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 19:03:18,198.18.0.31,karl,POST,/api/cart,201,380,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:06:58,198.18.1.32,-,GET,/static/css/style.css,200,35166,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 19:09:03,198.18.1.15,-,GET,/,200,17725,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 19:10:03,192.168.1.21,frank,GET,/home,200,41799,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 19:12:23,198.18.1.19,-,GET,/favicon.ico,200,31056,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 19:15:13,198.18.1.23,-,GET,/blog,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 19:21:53,198.18.1.14,-,GET,/,200,2659,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 19:23:20,198.18.0.32,laura,GET,/products,200,3796,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 19:29:09,198.18.1.20,-,GET,/products,200,47702,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:30:00,203.0.113.99,-,GET,/comment?text=<img src=x onerror=alert(1)>,403,1451,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:30:45,203.0.113.99,-,GET,/search?q=%3Cscript%3Ealert('xss')%3C/script%3E,403,208,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:31:30,203.0.113.99,-,GET,/search?q=<script>alert(1)</script>,200,20796,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:31:55,198.18.1.22,-,POST,/api/cart,201,516,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 19:32:15,203.0.113.99,-,GET,/search?q=<script>alert(1)</script>,400,859,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:33:00,203.0.113.99,-,GET,/redirect?url=javascript:alert(document.cookie),200,14685,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:33:45,203.0.113.99,-,GET,/redirect?url=javascript:alert(document.cookie),200,17751,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:34:30,203.0.113.99,-,GET,/redirect?url=javascript:alert(document.cookie),400,469,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:35:15,203.0.113.99,-,GET,/search?q=<iframe src=javascript:alert(1)>,400,217,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:36:24,198.18.1.28,-,POST,/api/cart,201,203,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 19:39:52,198.18.1.27,-,GET,/blog,301,250,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 19:44:56,198.18.1.21,-,GET,/static/js/app.js,200,37224,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:45:01,198.18.1.12,-,GET,/about,404,517,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 19:49:19,192.168.1.22,grace,GET,/static/css/style.css,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 19:49:57,198.18.0.32,laura,GET,/static/js/app.js,200,22755,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 19:54:05,198.18.1.17,-,GET,/about,301,250,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 19:54:10,198.18.1.32,-,GET,/,200,24490,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 19:57:15,192.168.1.22,grace,GET,/contact,200,45712,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 20:12:37,198.18.0.34,nina,GET,/static/js/app.js,200,45476,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 20:20:10,198.18.1.29,-,GET,/api/items,200,41202,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 20:26:41,198.18.1.14,-,GET,/,200,32090,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 20:30:07,198.18.1.20,-,GET,/,200,27060,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 20:41:16,10.0.0.15,eve,POST,/api/cart,201,309,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 20:42:24,198.18.1.27,-,GET,/products,404,1032,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 20:55:20,198.18.0.32,laura,GET,/,200,38378,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 20:59:06,192.168.1.25,judy,GET,/products/item-318,200,19549,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 20:59:11,10.0.0.13,carol,GET,/products,200,32889,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 21:02:35,198.18.1.22,-,GET,/search?q=laptop,200,15513,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 21:02:44,198.18.1.36,-,GET,/products,200,15038,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 21:09:19,198.18.1.35,-,GET,/static/js/app.js,200,1530,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 21:14:51,198.18.1.27,-,GET,/,200,42071,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 21:15:00,198.51.100.99,-,GET,/files?name=....//....//etc/passwd,400,842,curl/8.4.0
+2026-10-25 21:15:20,198.51.100.99,-,GET,/view?page=%2e%2e%2f%2e%2e%2fconfig.php,403,363,curl/8.4.0
+2026-10-25 21:15:40,198.51.100.99,-,GET,/files?name=....//....//etc/passwd,400,1047,curl/8.4.0
+2026-10-25 21:15:43,198.18.1.30,-,GET,/blog,200,15522,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 21:16:00,198.51.100.99,-,GET,/download?file=..%2f..%2f..%2fetc%2fshadow,403,836,curl/8.4.0
+2026-10-25 21:16:20,198.51.100.99,-,GET,/download?file=..\..\boot.ini,403,229,curl/8.4.0
+2026-10-25 21:16:40,198.51.100.99,-,GET,/download?file=..%2f..%2f..%2fetc%2fshadow,404,896,curl/8.4.0
+2026-10-25 21:17:00,198.51.100.99,-,GET,/files?name=....//....//etc/passwd,403,1456,curl/8.4.0
+2026-10-25 21:17:20,198.51.100.99,-,GET,/download?file=../../etc/passwd,400,658,curl/8.4.0
+2026-10-25 21:17:40,198.51.100.99,-,GET,/static/../../../windows/win.ini,400,499,curl/8.4.0
+2026-10-25 21:17:53,192.168.1.21,frank,GET,/,200,46013,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 21:17:56,198.18.1.15,-,GET,/about,304,0,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 21:18:00,198.51.100.99,-,GET,/download?file=../../etc/passwd,404,410,curl/8.4.0
+2026-10-25 21:26:34,198.18.1.19,-,GET,/static/js/app.js,200,32796,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 21:28:06,198.18.1.20,-,GET,/blog,200,47613,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 21:30:09,198.18.1.19,-,GET,/contact,200,40497,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 21:33:33,10.0.0.13,carol,GET,/static/css/style.css,200,11742,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 21:35:33,192.168.1.23,heidi,GET,/search?q=laptop,200,26255,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 21:41:52,198.18.1.38,-,GET,/static/js/app.js,200,16284,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 21:44:16,198.18.1.21,-,GET,/favicon.ico,200,20599,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 21:44:42,198.18.0.31,karl,GET,/,200,9250,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 21:47:32,10.0.0.13,carol,GET,/favicon.ico,200,25520,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 21:52:12,198.18.1.34,-,GET,/contact,200,17184,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 21:54:14,10.0.0.11,alice,GET,/,200,45213,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 21:55:43,198.18.1.24,-,POST,/api/cart,201,485,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 21:58:51,198.18.1.25,-,GET,/contact,200,2053,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 22:05:17,10.0.0.11,alice,GET,/contact,200,23942,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 22:07:24,198.18.1.33,-,GET,/static/js/app.js,200,17493,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 22:14:08,192.168.1.23,heidi,GET,/static/img/logo.png,200,29839,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 22:25:04,198.18.1.11,-,GET,/,200,19301,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 22:29:43,10.0.0.14,dave,GET,/static/img/logo.png,200,35660,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 22:39:41,192.168.1.25,judy,GET,/,200,47435,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 22:40:04,198.18.1.18,-,GET,/products/item-101,200,30631,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 22:49:34,192.168.1.24,ivan,GET,/,200,41886,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/118.0 Safari/537.36
+2026-10-25 22:51:12,198.18.1.24,-,GET,/,404,267,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 23:10:06,192.168.1.23,heidi,GET,/products/item-101,200,43848,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 23:24:28,198.18.1.33,-,GET,/blog,200,25418,Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) Mobile Safari/604.1
+2026-10-25 23:30:41,10.0.0.11,alice,GET,/products/item-205,200,24774,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 23:35:21,198.18.1.25,-,GET,/products/item-205,200,46862,Mozilla/5.0 (X11; Linux x86_64) Firefox/119.0
+2026-10-25 23:49:51,198.18.0.34,nina,GET,/static/img/logo.png,200,14554,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
+2026-10-25 23:59:20,198.18.1.12,-,GET,/products/item-101,404,972,Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) Safari/605.1.15
